@@ -1,2 +1,1 @@
-# Fritts009
-A solar panel and energy company website
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
