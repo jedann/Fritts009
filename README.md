@@ -1,1 +1,2 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Initialize the project by importing neccesary imports.
+Start with the command "npm start"
